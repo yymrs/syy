@@ -12,3 +12,4 @@ sw.*
 .husky
 package-lock.json
 yarn-error.log
+dist
